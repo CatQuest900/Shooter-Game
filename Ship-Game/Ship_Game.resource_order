@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_blast_enemy","order":2,"path":"objects/obj_blast_enemy/obj_blast_enemy.yy",},
+    {"name":"obj_enemy_ship","order":1,"path":"objects/obj_enemy_ship/obj_enemy_ship.yy",},
+    {"name":"spr_blaster_enemy","order":2,"path":"sprites/spr_blaster_enemy/spr_blaster_enemy.yy",},
+    {"name":"spr_end_text","order":4,"path":"sprites/spr_end_text/spr_end_text.yy",},
+    {"name":"spr_enemy_ship","order":1,"path":"sprites/spr_enemy_ship/spr_enemy_ship.yy",},
+    {"name":"spr_start_text","order":3,"path":"sprites/spr_start_text/spr_start_text.yy",},
+  ],
+}
