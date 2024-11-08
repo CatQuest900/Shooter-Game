@@ -1,3 +1,5 @@
+globalvar _enemy_health;
+_enemy_health = 3;
 _destroyed = false;
 var _random_create = irandom_range(0,1);
 var _random_int =  irandom_range(0,3);
