@@ -1,0 +1,1 @@
+with(obj_ship) instance_destroy();
