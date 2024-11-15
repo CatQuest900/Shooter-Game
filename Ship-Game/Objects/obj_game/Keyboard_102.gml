@@ -1,0 +1,1 @@
+instance_create_layer(obj_ship.x, obj_ship.y + irandom(200), "Instances", obj_ship);
