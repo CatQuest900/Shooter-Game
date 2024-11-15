@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_blast_enemy","order":2,"path":"objects/obj_blast_enemy/obj_blast_enemy.yy",},
+    {"name":"obj_enemy_ship","order":1,"path":"objects/obj_enemy_ship/obj_enemy_ship.yy",},
+    {"name":"obj_game_end","order":3,"path":"objects/obj_game_end/obj_game_end.yy",},
+    {"name":"obj_game","order":5,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"obj_quit_button","order":6,"path":"objects/obj_quit_button/obj_quit_button.yy",},
+    {"name":"obj_restart_button","order":4,"path":"objects/obj_restart_button/obj_restart_button.yy",},
+    {"name":"EndScreen","order":1,"path":"rooms/EndScreen/EndScreen.yy",},
+    {"name":"spr_blaster_enemy","order":2,"path":"sprites/spr_blaster_enemy/spr_blaster_enemy.yy",},
+    {"name":"spr_enemy_ship","order":1,"path":"sprites/spr_enemy_ship/spr_enemy_ship.yy",},
+    {"name":"spr_game_end","order":5,"path":"sprites/spr_game_end/spr_game_end.yy",},
+    {"name":"spr_quit_text","order":7,"path":"sprites/spr_quit_text/spr_quit_text.yy",},
+    {"name":"spr_restart_text","order":6,"path":"sprites/spr_restart_text/spr_restart_text.yy",},
+    {"name":"spr_start_text","order":3,"path":"sprites/spr_start_text/spr_start_text.yy",},
+    {"name":"spr_win_text","order":4,"path":"sprites/spr_win_text/spr_win_text.yy",},
+  ],
+}
